@@ -25,3 +25,4 @@ export interface ChannelSearchableData {
   streamNames: string[]
   feedFullNames: string[]
 }
+sites/tvmustra.hu/__data__/content.html
